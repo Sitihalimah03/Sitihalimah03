@@ -1,5 +1,5 @@
 <?php 
-$koneksi = mysqli_connect("localhost","root","","db_spp3","sql112.epizy.com","epiz_28426333","eGS6bBMGzJi","epiz_28426333_master");
+$koneksi = mysqli_connect("localhost","root","","db_spp3");
  
 // Check connection
 if (mysqli_connect_errno()){
